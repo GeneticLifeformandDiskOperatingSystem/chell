@@ -1,4 +1,4 @@
-baseurl = "/"
+baseURL = "https://geneticlifeformanddiskoperatingsystem.github.io/chell/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -70,11 +70,11 @@ pagination.pagerSize = 5
 
 [[params.navlinks]]
   name = "About"
-  url = "/about/"
+  url = "about/"
 
 [[params.navlinks]]
   name = "Courses"
-  url = "/courses/"
+  url = "courses/"
 
 titleCutting = true
 animateStyle = "animated zoomIn fast" 
@@ -83,36 +83,3 @@ animateStyle = "animated zoomIn fast"
   [languages.en]
     languageName = "English"
     title = "Rob Stanford ILP"
-
-    [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = "Rob Stanford"
-      keywords = ""
-      copyright = ""
-      menuMore = "Courses"
-      readMore = "Read more"
-      readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
-      missingBackButtonLabel = "Back to home page"
-      minuteReadingTime = "min read"
-      words = "words"
-
-      [languages.en.params.logo]
-        logoText = "RS"
-        logoHomeLink = "/chell"
-
-      [languages.en.menu]
-        [[languages.en.menu.main]]
-          identifier = "about"
-          name = "About"
-          url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "cst300"
-          name = "CST-300"
-          url = "/courses/cst300"
-        [[languages.en.menu.main]]
-          identifier = "cst328"
-          name = "CST-328"
-          url = "/courses/cst328"
