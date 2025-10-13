@@ -73,8 +73,6 @@ source = 'static'
 target = 'static'
 
 [[module.mounts]]
-source = 'images'
-target = 'static/images'
 source = 'file'
 target = 'static/file'
 
