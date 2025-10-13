@@ -1,4 +1,5 @@
 baseURL = "https://geneticlifeformanddiskoperatingsystem.github.io/chell/"
+canonifyURLs = true    # optional but helps make links absolute off baseURL
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
