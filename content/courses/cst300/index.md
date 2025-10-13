@@ -5,7 +5,7 @@ title = 'CST-300'
 type = "gallery"
 image = "cst300.png"
 +++
-
+# Major ProSeminar
 The CST300 course helps to a student from the aspect of how to present your ideas and thoughts in an articulated, professional manner that will suite you in your career.  The course is also used as an introduction to the CS Online program, helping you get you familiar with how the online course work is structured and where you can find resources and help.
 
 My ethics argument paper is on the autonomous driving systems and whether vehicles should come with autonomous driving systems that can

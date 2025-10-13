@@ -5,6 +5,7 @@ title = 'CST-338'
 type = 'gallery'
 image = "cst338.png"
 +++
+# Software Design
 >An intermediate-level programming course covering techniques for developing large-scale software systems using object-oriented programming. Coverage includes software development life cycle models, requirements analysis, and graphical user interface development
 
 #### Final Project: VinylKeeper
