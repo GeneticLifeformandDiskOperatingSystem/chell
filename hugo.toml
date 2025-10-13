@@ -13,6 +13,8 @@ pagination.pagerSize = 5
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+  [caches.files]
+    dir = ':cacheDir/files'
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -74,7 +76,7 @@ target = 'static'
 
 [[module.mounts]]
 source = 'file'
-target = 'static/file'
+target = 'static/files'
 
 [[params.navlinks]]
   name = "About"
