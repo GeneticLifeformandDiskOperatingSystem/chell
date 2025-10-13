@@ -13,8 +13,6 @@ pagination.pagerSize = 5
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-  [caches.files]
-    dir = ':cacheDir/files'
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -69,14 +67,6 @@ pagination.pagerSize = 5
   # dateFormat = "2006-01-02"
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
-
-[[module.mounts]]
-source = 'static'
-target = 'static'
-
-[[module.mounts]]
-source = 'file'
-target = 'static/files'
 
 [[params.navlinks]]
   name = "About"
