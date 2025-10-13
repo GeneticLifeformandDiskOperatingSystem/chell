@@ -13,7 +13,7 @@ make decisions that affect the harm stemming from an accident
 
 # Projects
 
-### [Ethics Essay](/chell/files/stanford_essay.pdf)
+### [Ethics Essay](/files/stanford_essay.pdf)
 Our ethics essay assignment, focusing on autonomous driving systems and the argument of whether they should be adopted or not in their current state.
 
 ### Augmented Reality Presentation
